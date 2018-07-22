@@ -1,0 +1,9 @@
+<view class='container'>
+  <view class='info'>
+  <text>东北</text>
+  <text>58.25°</text>
+  </view>
+  <view class='picture'>
+    <image></image>
+  </view>
+</view>
